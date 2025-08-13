@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridgette.Data", "Bridgette.Data\Bridgette.Data.csproj", "{33CB1FAC-3A98-4117-8398-F30AA55BB26B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridgette.Core", "Bridgette.Core\Bridgette.Core.csproj", "{E9B55D3F-A3C3-4058-958C-D533CC2927E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{33CB1FAC-3A98-4117-8398-F30AA55BB26B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33CB1FAC-3A98-4117-8398-F30AA55BB26B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33CB1FAC-3A98-4117-8398-F30AA55BB26B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9B55D3F-A3C3-4058-958C-D533CC2927E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9B55D3F-A3C3-4058-958C-D533CC2927E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9B55D3F-A3C3-4058-958C-D533CC2927E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9B55D3F-A3C3-4058-958C-D533CC2927E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
