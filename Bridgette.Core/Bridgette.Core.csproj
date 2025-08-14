@@ -8,6 +8,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\Bridgette.Data\Bridgette.Data.csproj" />
+      <ProjectReference Include="..\Bridgette.Google\Bridgette.Google.csproj" />
     </ItemGroup>
 
 </Project>
