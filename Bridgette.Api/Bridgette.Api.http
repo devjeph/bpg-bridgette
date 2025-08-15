@@ -1,0 +1,6 @@
+@Bridgette.Api_HostAddress = http://localhost:5163
+
+GET {{Bridgette.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

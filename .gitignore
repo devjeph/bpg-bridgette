@@ -558,3 +558,6 @@ fabric.properties
 # Editor-based Rest Client
 
 # Android studio 3.1+ serialized cache file
+
+appsettings.json
+appsettings.Development.json
