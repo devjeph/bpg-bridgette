@@ -561,3 +561,4 @@ fabric.properties
 
 appsettings.json
 appsettings.Development.json
+ca.pem
