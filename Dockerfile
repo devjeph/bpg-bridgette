@@ -24,4 +24,4 @@ WORKDIR /app
 COPY --from=publish /app/publish .
 # Copy the CA certificate into the container
 COPY Bridgette.Api/ca.pem .
-ENTRYPOINT ["dotnet", "Bridgette.Api.dll"]
+CMD ["dotnet", "Bridgette.Api.dll"]
